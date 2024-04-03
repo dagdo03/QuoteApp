@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">quoteapp</string>
+    <string name="text_title_anime_quotes">Anime Quotes</string>
+    <string name="text_anime">Anime :</string>
+    <string name="text_anime_value">loremipsum</string>
+    <string name="text_character">Character :</string>
+    <string name="text_quote">Quote :</string>
+    <string name="text_generate">Generate</string>
+</resources>
